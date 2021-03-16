@@ -1,0 +1,15 @@
+.main {
+    text-align: center;
+    align-items: center;
+    margin: 60px;
+}
+
+.russian, .german, .italian {
+    cursor: pointer;
+    margin: 30px;
+}
+
+.languages-box {
+    display: flex;
+    justify-content: center;
+}
